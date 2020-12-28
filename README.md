@@ -89,3 +89,7 @@ Note that the option `cat_id` indicates the category id to be used to load the c
 ## Pre-trained models (3D)
 We release the 3D [pretrained models](https://drive.google.com/file/d/1Hv3Xo7e2vec-PPQeptYsHKYWCfQ0cQ5V/view?usp=sharing)
 for both single categy (airplanes), as well as multi-category (all 13 classes).
+
+
+## Classification
+We plan to release our code for the classification experiments in the paper as well (**ETA: by the end of Janurary**).
