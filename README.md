@@ -92,4 +92,8 @@ for both single categy (airplanes), as well as multi-category (all 13 classes).
 
 
 ## Classification
-We plan to release our code for the classification experiments in the paper as well (**ETA: by the end of Janurary**).
+
+To use our classification script:
+```
+python classification.py --data_dir=/path/to/saved/features --feature_type=caca --method_type=svm --use_kpts
+```
