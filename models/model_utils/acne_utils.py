@@ -26,7 +26,7 @@ class KoutLayer(nn.Module):
         else:
             self.linear = None
 
-    def forward(self, x, context_vec=None, return_att=False):
+    def forward(self, x, return_att=False):
         
         attention = self.conv_att(x)
         a = torch.softmax(attention, dim=1) # BKN1
