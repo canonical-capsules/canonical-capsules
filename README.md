@@ -1,18 +1,16 @@
-# Canonical Capsules: Unsupervised Capsules in Canonical Pose
+# Canonical Capsules: Unsupervised Capsules in Canonical Pose (NeurIPS 2021)
 
 ![teaser](docs/teaser.gif)
 
 ## Introduction
 
-> :warning: the source code is subject to changes up to June 1st, 2021 (official release date)
-
-This is the official repository for the PyTorch implementation of "Canonical Capsules: Unsupervised Capsules in Canonical Pose" by [Weiwei Sun*](https://weiweisun2018.github.io/), [Andrea Tagliasacchi*](https://taiya.github.io/), [Boyang Deng](https://boyangdeng.com/), [Sara Sabour](https://scholar.google.ca/citations?user=l8wQ39EAAAAJ&hl=en), [Soroosh Yazdani](https://scholar.google.com/citations?user=u6IqTfoAAAAJ&hl=en), [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton), [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi).
+This is the official repository for the PyTorch implementation of "Canonical Capsules: Unsupervised Capsules in Canonical Pose" by [Weiwei Sun*](https://wsunid.github.io/), [Andrea Tagliasacchi*](https://taiya.github.io/), [Boyang Deng](https://boyangdeng.com/), [Sara Sabour](https://scholar.google.ca/citations?user=l8wQ39EAAAAJ&hl=en), [Soroosh Yazdani](https://scholar.google.com/citations?user=u6IqTfoAAAAJ&hl=en), [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton), [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi).
 
 ### Download links
 
 - [Project Website](https://canonical-capsules.github.io)
 - [PDF](https://arxiv.org/abs/2012.04718) (arXiv)
-- [PDF](https://canonical-capsules.github.io/pdf/caca.pdf) (github copy)
+- [PDF](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf) (github copy)
 
 ### Citation
 
@@ -24,9 +22,8 @@ This is the official repository for the PyTorch implementation of "Canonical Cap
    author={Weiwei Sun and Andrea Tagliasacchi and Boyang Deng and 
            Sara Sabour and Soroosh Yazdani and Geoffrey Hinton and
            Kwang Moo Yi},
-   booktitle={arXiv preprint},
-   publisher_page={https://arxiv.org/abs/2012.04718},
-   year={2020}
+   booktitle={Neural Information Processing Systems},
+   year={2021}
 }
 ```
 
