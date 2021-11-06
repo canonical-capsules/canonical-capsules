@@ -1,4 +1,4 @@
-# Canonical Capsules: Unsupervised Capsules in Canonical Pose (NeurIPS 2021)
+# Canonical Capsules: Self-Supervised Capsules in Canonical Pose (NeurIPS 2021)
 
 ![teaser](docs/teaser.gif)
 
