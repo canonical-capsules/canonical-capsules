@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the official repository for the PyTorch implementation of "Canonical Capsules: Unsupervised Capsules in Canonical Pose" by [Weiwei Sun*](https://wsunid.github.io/), [Andrea Tagliasacchi*](https://taiya.github.io/), [Boyang Deng](https://boyangdeng.com/), [Sara Sabour](https://scholar.google.ca/citations?user=l8wQ39EAAAAJ&hl=en), [Soroosh Yazdani](https://scholar.google.com/citations?user=u6IqTfoAAAAJ&hl=en), [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton), [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi).
+This is the official repository for the PyTorch implementation of "Canonical Capsules: Self-Supervised Capsules in Canonical Pose" by [Weiwei Sun*](https://wsunid.github.io/), [Andrea Tagliasacchi*](https://taiya.github.io/), [Boyang Deng](https://boyangdeng.com/), [Sara Sabour](https://scholar.google.ca/citations?user=l8wQ39EAAAAJ&hl=en), [Soroosh Yazdani](https://scholar.google.com/citations?user=u6IqTfoAAAAJ&hl=en), [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton), [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi).
 
 ### Download links
 
@@ -18,7 +18,7 @@ This is the official repository for the PyTorch implementation of "Canonical Cap
 
 ```
 @conference{sun2020canonical,
-   title={Canonical Capsules: Unsupervised Capsules in Canonical Pose},
+   title={Canonical Capsules: Self-Supervised Capsules in Canonical Pose},
    author={Weiwei Sun and Andrea Tagliasacchi and Boyang Deng and 
            Sara Sabour and Soroosh Yazdani and Geoffrey Hinton and
            Kwang Moo Yi},
